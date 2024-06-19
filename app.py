@@ -78,5 +78,3 @@ def get_files():
 
 if __name__ == "__main__":
     files = get_files()
-    
-    C:\Program Files\Git
